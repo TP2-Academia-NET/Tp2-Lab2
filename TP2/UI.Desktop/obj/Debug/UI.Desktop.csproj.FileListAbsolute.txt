@@ -1,0 +1,2 @@
+C:\NET\Labs\TP2L01\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\NET\Labs\TP2L02\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
